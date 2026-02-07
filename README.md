@@ -1,5 +1,13 @@
 <h1 align="center">Heyy, I'm Meghana 👋</h1>
-<h3 align="center">CSE Student | Curious Builder | Code 💻</h3>
+<h3 align="center">CSE Student |  Learning by building | Code 💻</h3>
+
+## 🌱 About Me
+- Engineering student passionate about coding & problem solving
+- Love building meaningful projects
+- Focusing clarity over complexity
+
+## Projects
+
 
 <!--
 **kanisettymeghana/kanisettymeghana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
