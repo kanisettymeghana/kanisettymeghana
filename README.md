@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Heyy, I'm Meghana 👋</h1>
+<h3 align="center">CSE Student | Curious Builder | Code 💻</h3>
 
 <!--
 **kanisettymeghana/kanisettymeghana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
