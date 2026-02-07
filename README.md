@@ -6,7 +6,13 @@
 - Love building meaningful projects
 - Focusing clarity over complexity
 
+## Hackathons
+-> Cost optimization project for the textile industry 
+🔗https://github.com/kanisettymeghana/First-hackathon
+
 ## Projects
+-> Typing speed analyser
+
 
 
 <!--
