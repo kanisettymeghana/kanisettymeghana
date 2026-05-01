@@ -34,6 +34,8 @@
   
 🔗https://github.com/kanisettymeghana/Intent-and-Trajectory-Prediction
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=More+projects+loading...;Building+something+new...;Stay+tuned+🚀)
+
 ## 🤝 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanisettymeghana)
