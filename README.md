@@ -7,8 +7,9 @@
 - Focusing clarity over complexity
 
 ## Hackathons
+### Cost optimization project for the textile industry
+-> Developed a data-driven web application that analyzes agricultural inputs to optimize purchasing, consumption, and pricing decisions. The system enables sellers to determine optimal resource allocation and selling prices across a wide range of crops, based on target profit margins.
 
--> Cost optimization project for the textile industry 
 🔗https://github.com/kanisettymeghana/First-hackathon
 
 ### ZOMATHON
