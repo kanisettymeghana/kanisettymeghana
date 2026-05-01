@@ -34,6 +34,12 @@
   
 🔗https://github.com/kanisettymeghana/Intent-and-Trajectory-Prediction
 
+## 🤝 Let’s Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanisettymeghana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanisetty-meghana-723482379/)
+[![Connect](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=maildotru&logoColor=white)](kanisettymeghana@gmail.com)
+
 
 
 
