@@ -12,16 +12,21 @@
 
 🔗https://github.com/kanisettymeghana/First-hackathon
 
+
 ### ZOMATHON
 -> Improved Kitchen Prep Time (KPT) predictions by redesigning unreliable input signals—using IoT-based readiness detection, full kitchen visibility (POS + KDS), and adaptive per-merchant correction to ensure accurate and scalable predictions without modifying the model
 
 🔗https://github.com/kanisettymeghana/Zomato_kpt_hackathon
+
+
 
 ## Projects
 #### Typing speed analyser
 ->An interactive typing speed analyzer that simulates real-world typing scenarios using dynamic Wikipedia content, delivers instant feedback with real-time WPM and accuracy tracking, and adapts seamlessly by preloading and streaming sentences for a smooth, uninterrupted typing experience.
 
 🔗https://github.com/kanisettymeghana/Typing-speed-analyser
+
+
 
 # UI Design
 ### Intent and Trajectory Prediction
