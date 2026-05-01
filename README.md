@@ -19,13 +19,16 @@
 🔗https://github.com/kanisettymeghana/Zomato_kpt_hackathon
 
 
-
 ## Projects
 #### Typing speed analyser
 ->An interactive typing speed analyzer that simulates real-world typing scenarios using dynamic Wikipedia content, delivers instant feedback with real-time WPM and accuracy tracking, and adapts seamlessly by preloading and streaming sentences for a smooth, uninterrupted typing experience.
 
 🔗https://github.com/kanisettymeghana/Typing-speed-analyser
 
+### Metro chatbot
+->An intelligent NLP-powered auto-reply assistant that understands message intent using semantic embeddings and generates context-aware, human-like responses by dynamically adapting conversational tone—moving beyond rigid, rule-based chatbots.
+
+🔗https://github.com/kanisettymeghana/metro_chatbot
 
 
 # UI Design
